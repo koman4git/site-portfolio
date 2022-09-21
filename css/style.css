@@ -83,7 +83,7 @@ body {
       -ms-flex-align: center;
           align-items: center;
   height: 61px;
-  background: url(../img/header-background.png);
+  background: url("../img/header-background.png");
 }
 
 .logo {
