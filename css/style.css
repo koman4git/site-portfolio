@@ -83,7 +83,7 @@ body {
       -ms-flex-align: center;
           align-items: center;
   height: 61px;
-  background: url(/../img/header-background.png);
+  background: url(../img/header-background.png);
 }
 
 .logo {
@@ -126,7 +126,7 @@ body {
 }
 
 .main-section {
-  background: url(/../img/фон1.png);
+  background: url(../img/фон1.png);
   height: 1068px;
   position: relative;
 }
@@ -293,7 +293,7 @@ h2 {
 
 .skills {
   padding: 101px 0 76px 0;
-  background: url(/../img/что\ я\ умею\ фон.png) no-repeat;
+  background: url(../img/что\ я\ умею\ фон.png) no-repeat;
 }
 
 .skills-list {
@@ -485,7 +485,7 @@ select {
 }
 
 .statistics {
-  background: url(/../img/statistic.png);
+  background: url(../img/statistic.png);
   height: 500px;
   padding-top: 100px;
 }
@@ -567,7 +567,7 @@ select {
 }
 
 .contacts {
-  background: url(/../img/фон\ 3.png);
+  background: url(../img/фон\ 3.png);
   height: 780px;
   padding-top: 101px;
 }
@@ -753,7 +753,7 @@ textarea {
 }
 
 footer {
-  background: url(/../img/плашка\ низ.png);
+  background: url(../img/плашка\ низ.png);
   height: 90px;
   text-align: center;
 }
